@@ -87,7 +87,7 @@ In this project I'm trying to analyze and visualize the data and form Clusters. 
 
 7)Cluster Analysis:
 
-![](Figures/individualCluster.png)
+![](Figures/individualcluster.png)
 
 
 ## Conclusing Statement
